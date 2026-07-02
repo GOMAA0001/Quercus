@@ -2,7 +2,10 @@ import './App.css';
 
 function App() {
   return (
-    <h1 className="text-neutral-950 text-base flex relative justify-center items-center w-screen h-screen">Quercus</h1>
+    <div id='Body'>
+      <div className=' grid relative bg-emerald-50 w-full min-h-screen'>
+      </div>
+    </div>
   );
 }
 
